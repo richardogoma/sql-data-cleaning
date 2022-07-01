@@ -31,3 +31,20 @@ _Below are steps to importing the dataset into your database._
    ```
 4. Execute the INSERT Script.
 
+###### Alternatively, you can execute the transact script as a single batch which is the dataset downloaded from OneDrive. 
+
+## Concepts covered in this project
+1. Joins
+2. Temp tables
+3. Window functions
+4. Aggregations
+5. Descriptive statistics 
+
+## References
+* https://dataschool.com/how-to-teach-people-sql/how-to-find-outliers-with-sql/
+* https://towardsdatascience.com/why-1-5-in-iqr-method-of-outlier-detection-5d07fdc82097
+* https://youtu.be/9jYqZS142mg
+* https://www.cbn.gov.ng/rates/ExchRateByCurrency.asp
+* https://machinelearningmastery.com/how-to-use-statistics-to-identify-outliers-in-data/
+* https://towardsdatascience.com/3-reasons-to-use-views-instead-of-tables-in-power-bi-272fb9616691
+
