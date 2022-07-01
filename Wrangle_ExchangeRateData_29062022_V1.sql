@@ -2,7 +2,7 @@
 	The data to be cleansed is Exchange Rate Data scraped from CBN's official website https://www.cbn.gov.ng/rates/ExchRateByCurrency.asp 
     and was last updated on 6/23/2022. The script Insert_ExchangeRateData_23062022.sql must be run to import data. 
 */
---DROP TABLE [dbo].[ExchangeRateData]
+
 GO
 USE [richprojects]
 GO
