@@ -1,5 +1,5 @@
 # About the Project
-This is a data cleaning project, and the data to be cleansed is the Exchange Rate Data scraped from [CBN's official website](https://www.cbn.gov.ng/rates/ExchRateByCurrency.asp). The dataset was scraped from their website on 6/23/2022. 
+This is a data cleaning project, and the data to be cleansed is the Exchange Rate Data scraped from [CBN's official website](https://www.cbn.gov.ng/rates/ExchRateByCurrency.asp). The dataset was scraped on 6/23/2022. 
 
 This purpose of this project is to demonstrate how data can be transformed from dirty to clean using SQL. 
 
