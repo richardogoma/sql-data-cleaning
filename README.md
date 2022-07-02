@@ -38,7 +38,9 @@ _Below are steps to importing the dataset into your database._
 2. Temp tables
 3. Window functions
 4. Aggregations
-5. Descriptive statistics 
+5. Descriptive statistics
+6. Subqueries
+
 
 ## References
 * https://dataschool.com/how-to-teach-people-sql/how-to-find-outliers-with-sql/
