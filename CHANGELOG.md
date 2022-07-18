@@ -12,3 +12,7 @@
 * Add the dataviz for the cleaning ops
 * Addded the median script developed for the wrangling of the dataset
 
+## v2.0.0
+* Archived old scripts and files
+* Uploaded updated version of the work as of 15th July 2022
+
