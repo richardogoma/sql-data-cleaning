@@ -1,0 +1,3 @@
+Category	Count
+Total	49639
+Distinct	49600

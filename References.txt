@@ -1,0 +1,24 @@
+References: 
+1. Exchange Rates: https://www.cbn.gov.ng/rates/ExchRateByCurrency.asp
+2. Outliers: https://dataschool.com/how-to-teach-people-sql/how-to-find-outliers-with-sql/
+3. IQR Method: https://towardsdatascience.com/why-1-5-in-iqr-method-of-outlier-detection-5d07fdc82097
+4. What Are And How To Calculate Quartiles, The Interquartile Range, IQR, And Outliers Explained: https://youtu.be/9jYqZS142mg
+5. Data format for exchange rates: https://www.bankofcanada.ca/rates/exchange/background-information-on-foreign-exchange-rates/
+6. What is Data Profiling? https://dataladder.com/data-profiling-vs-data-cleansing/#:~:text=By%20profiling%20data%2C%20you%20get,necessary%20to%20clean%20the%20flaws
+7. Exchange Rate: Definitions: https://saylordotorg.github.io/text_international-finance-theory-and-policy/s07-02-exchange-rate-definitions.html
+8. Design Power BI reports: https://docs.microsoft.com/en-us/learn/modules/power-bi-effective-reports/
+9. Mean absolute deviation (MAD): https://www.khanacademy.org/math/statistics-probability/summarizing-quantitative-data/other-measures-of-spread/a/mean-absolute-deviation-mad-review
+10. Power BI Custom Visuals - Box and Whiskers (Jan Pieter): https://www.youtube.com/watch?v=BHmYFBujgak
+11. sp_executesql (Transact-SQL): https://docs.microsoft.com/en-us/sql/relational-databases/system-stored-procedures/sp-executesql-transact-sql?view=sql-server-ver16
+12. INFORMATION_SCHEMA: https://www.mssqltips.com/sqlservertutorial/183/information-schema-columns/
+13. Correlation Coefficient: https://www.statisticshowto.com/probability-and-statistics/correlation-coefficient-formula/
+14. Nigerian naira hits record low: https://www.reuters.com/article/us-nigeria-currency-idUSKBN2EY25W
+15. Nigeria set to free its currency: http://news.bbc.co.uk/2/hi/business/6946604.stm
+16. Nigerian naira: https://en.wikipedia.org/wiki/Nigerian_naira#cite_note-27 
+17. Nigeria’s oil revenue at risk as production falls further to 1.02 million barrels per day: https://nairametrics.com/2022/06/15/nigerias-oil-revenue-at-risk-as-production-falls-further-to-1-02-million-barrels-per-day/
+18. U.S. Dollar and Euro at Parity: https://www.statista.com/chart/10904/usd-eur-echange-rate/?utm_source=Statista+Newsletters&utm_campaign=6618451411-All_InfographTicker_daily_COM_PM_KW28_2022_Tu&utm_medium=email&utm_term=0_662f7ed75e-6618451411-342967582
+19: Data profiling: https://www.techtarget.com/searchdatamanagement/definition/data-profiling#:~:text=Data%20profiling%20refers%20to%20the,%2C%20consistency%2C%20timeliness%20and%20accessibility.
+
+
+
+

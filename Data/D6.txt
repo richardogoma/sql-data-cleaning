@@ -1,0 +1,3 @@
+Category	Count
+Consistent	49398
+Inconsistent	202
